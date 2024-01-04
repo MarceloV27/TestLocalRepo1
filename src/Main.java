@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello world!");
 
         var person = new secondClass();
+        System.out.println(person);
 
 
     }
