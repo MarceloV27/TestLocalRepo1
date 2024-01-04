@@ -6,7 +6,6 @@ public class Main {
 
         var person = new secondClass("Marcelo", "Veintimilla", 23);
         System.out.println(person);
-
-
+        System.out.println("HI");
     }
 }

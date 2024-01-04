@@ -6,6 +6,8 @@ public class secondClass {
 
     private int age;
 
+
+
     public secondClass(String name, String lastName, int age) {
         this.name = name;
         this.lastName = lastName;
